@@ -16,4 +16,4 @@ for i in range(len(a) - 1):
 
 print(b)
 print(c)
-print(1)
+print(10)
